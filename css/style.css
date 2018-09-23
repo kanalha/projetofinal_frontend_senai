@@ -1,0 +1,36 @@
+.placa{
+    padding: 2rem 1rem;
+    margin-bottom: 2rem;
+    background-image: url('../img/fundo_placa_video.jpg');
+    background-size: 620px;
+    border-radius: 0.3rem;
+}
+.topo{
+    padding: 5rem 1rem;  
+}
+.titulo {
+    padding: 4rem 2rem;
+    margin-bottom: 2rem;
+    border-radius: 0.3rem;
+}
+.gab {
+    padding: 10rem 30rem;
+    background-image: url('../img/pag02.jpg');
+    
+     
+}
+.mobo{
+    padding: 10rem 30rem;
+    background-image: url('../img/mobo58_.jpg');
+}
+.perifericos{
+    padding: 0rem 10rem;
+    background-image: url('../img01/set-up01\ \(1\).jpg'); 
+}
+
+.bg-contato{
+    background: url(../img01/set-up01\ \(1\).jpg) no-repeat;
+    background-size: cover;
+    background-position: center;
+    color: #ffffff;
+}
